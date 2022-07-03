@@ -41,23 +41,23 @@ global.doc5 = 'application/pdf'
 global.doc6 = 'application/vnd.android.package-archive'
 
 //owmner v card
-global.owner = ['6285822347348'] //ur owner number
-global.ownername = "ArullOfc"
-global.ytname = "YT:ARULL OFC " //ur yt chanel name
-global.socialm = "GitHub: Warikrr" //ur github or insta name
+global.owner = ['6283177345510'] //ur owner number
+global.ownername = "Kevin ganteng"
+global.ytname = "YT:kevin pangki " //ur yt chanel name
+global.socialm = "GitHub: kevinxd78" //ur github or insta name
 global.location = "Indonesia, Kalimantan Selatan, Kotabaru" //ur location
 
 //bot bombdy
 global.botname = "ArullBotz" //ur bot name
 global.websitex = "https://youtube.com/channel/UC1ikkqsPvtWuE_QonsET1yg" //ur website
 global.vidmenu = { url: 'https://a.uguu.se/eFNTvNt.mp4' } //gif and video menu
-global.packname = "Sticker By"
-global.author = "ArullBotz"
+global.packname = "kevin kontol"
+global.author = "kepin kontol"
 global.themeemoji = "🐶"
 global.reactmoji = "🗿"
-global.ownertag = ['ArullOfc'] //ur owner tag
-global.ownernummenu = ['6285822347348'] //ur owner number in menu and all
-global.watermark = "ArullBotz" //ur watermark
+global.ownertag = ['woy owner badjingan'] //ur owner tag
+global.ownernummenu = ['62895324402164'] //ur owner number in menu and all
+global.watermark = "kevin" //ur watermark
 global.botscript = "https://youtu.be/Gr6yuCbSGTI"
 global.linkz1 = "https://chat.whatsapp.com/F6CAAOhrORm1sPdq6cRKAS"
 global.linkz2 = "https://youtube.com/channel/UC1ikkqsPvtWuE_QonsET1yg"
